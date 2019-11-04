@@ -735,7 +735,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [karnaval.com](http://karnaval.com)
 - [katproxy.com](http://katproxy.com)
 - [keep2share.cc](http://keep2share.cc)
-- [khabarfarsi.com](http://khabarfarsi.com)
+- [khabartube.com](http://khabartube.com)
 - [khmerload.com](http://khmerload.com)
 - [kingworldnews.com](http://kingworldnews.com)
 - [kinogo.net](http://kinogo.net)
